@@ -7,7 +7,7 @@ Next level week #02 - Projeto Proffy 🚀
 > Com ❤ feito por [@Eduardo Silva][emoises]
 
 <!--02-->
-[cover-02]:
+[cover-02]:https://github.com/emoises/NLW-02/blob/master/web/Proffy.png?raw=true
 [aula-02]: https://https://github.com/emoises/NLW-02
 
 <!--Nicolas-->
